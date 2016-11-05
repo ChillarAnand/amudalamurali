@@ -1,0 +1,6 @@
+[project]
+name =
+
+
+[servers.ghpages]
+target = ghpages+https://chillaranand/amudalamurali?cname=www.amudalamurali.com
